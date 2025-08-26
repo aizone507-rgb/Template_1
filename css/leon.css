@@ -376,7 +376,7 @@ body {
         right: -105px;
         top: -40px;
     }
-    .about .about-content .image::before {
+    .about .about-content .image::before { 
         content: '';
         position: absolute;
         top: -40px;
