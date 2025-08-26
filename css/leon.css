@@ -241,7 +241,7 @@ body {
         display: none;
     }
 }
-@media (max-width: 400px) {
+@media (max-width: 435px) {
     .services .services-content .image::before {
         content: "";
         position: absolute;
@@ -353,7 +353,7 @@ body {
         text-align: center;
     }
 }
-@media (max-width: 400px) {
+@media (max-width: 435px) {
     .about .about-content .image img{
         right: -5px;
     }
